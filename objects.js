@@ -1,1 +1,1 @@
-Object.assign({'playlist'}, { artistName: 'songTitle' });
+Object.assign( {}, { artistName: 'songTitle' } );
