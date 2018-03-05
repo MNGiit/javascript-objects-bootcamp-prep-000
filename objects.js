@@ -1,5 +1,1 @@
-var playlist = new Object();
-
-playlist.artist;
-playlist.song;
-
+Object.assign({}, playlist);
