@@ -1,3 +1,1 @@
-var playlist { artistName: 'songTitle' };
-
-var playlist = { artistName: 'songTitle' };
+Object.assign({}, { artistName: 'songTitle' })
