@@ -1,1 +1,1 @@
-var objects { artistName: 'songTitle'};
+var object { artistName: 'songTitle'};
